@@ -3,6 +3,4 @@ This is the code for the paper *Self-organized MT Direction Maps Emerge from Spa
 
 DOI: 
 
-[arXiv](https://arxiv.org/abs/2605.11718) | Springer
-
-## Citations
+[arXiv](https://arxiv.org/abs/2605.11718) | Springer (Coming Soon)
